@@ -13,7 +13,7 @@ Currently supported carriers:
   xfinity
 """
 
-number = '0000000000'
+number = '+55 041 991613130'
 carrier = 'att'
-email = 'youremail@gmail.com'
-password = 'youremailpassword'
+email = 'adur.felipe@gmail.com'
+password = 'pipeeguca'
